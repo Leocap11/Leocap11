@@ -1,47 +1,66 @@
-# Hello! I'm Leonardo. 👋
+# Hello! I'm Leonardo 👋
 
-![Java Developer Banner](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)
+## 👨‍💻 Software Engineer | Java & Fullstack Developer
 
-## 👨‍💻 Passionate Java Developer
+Welcome to my GitHub profile! I'm Leonardo, a software engineer with hands-on experience in building complex web applications, both backend and frontend. I have strong expertise in Java (with Spring Boot), Node.js, and modern technologies like NestJS and React. I'm currently involved in the development of scalable, containerized web applications with a focus on REST APIs, microservices architecture, and AI service integrations.
 
-Welcome to my GitHub profile! My name is Leonardo, and I'm an emerging programmer with a strong passion for Java. I have experience with a wide range of technologies in both backend and frontend, and I'm looking for opportunities that allow me to further specialize in Java.
-I am Italian and have recently completed a course of study. I'm seeking employment to learn and enter the workforce in this sector.
+---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-- **Programming Languages:** Java, Python, JavaScript
-- **Backend Frameworks:** Spring for Java, Flask for Python
-- **Databases:** SQL, MongoDB (basic level)
-- **Frontend Technologies:** HTML, CSS (with Tailwind), React (with NextUI)
-- **Various Tools:** Git
+- **Programming Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Backend:** Spring Boot, NestJS, Node.js, Flask
+- **Frontend:** React, HTML5, CSS3, Tailwind
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools & DevOps:** Docker, RabbitMQ, Redis, Prisma, Git, CI/CD pipelines
 
-### 📖 Committed to Continuous Learning
+---
 
-I'm always looking for new challenges and opportunities to grow professionally. Currently, I'm deepening my knowledge of Java and exploring new backend development techniques.
+### 💼 Work Experience
 
-### 🌍 Looking for New Opportunities
+- **Software Engineer (01/2025 – Present)**  
+  Backend development of an AI-driven web app for marketing campaign optimization. Stack: NestJS, TypeScript, Prisma, PostgreSQL, RabbitMQ, Docker.
 
-I'm interested in positions that allow me to use and deepen my skills in Java and software development in general. I strongly believe in the power of collaboration and am always open to working on innovative projects.
+- **Software Engineer (06/2024 – 12/2024)**  
+  Web app for hair salons integrating external AI services (Python). API layer in Java Spring Boot, caching via Redis.
+
+- **Software Engineer (01/2024 – 06/2024)**  
+  Backend for a network monitoring platform. Microservices in Node/TypeScript and Spring Boot, communication via RabbitMQ, caching with Redis.
+
+- **Software Engineer (09/2023 – 01/2024)**  
+  B2B web app for professional networking. Features include secure authentication, service postings, and Microsoft Blob file upload. Stack: NestJS, TypeScript, Docker.
+
+- **Software Engineer (04/2023 – 09/2023)**  
+  CRM integration with Active Campaign. Built with Spring Boot (backend), React (frontend), PostgreSQL, MongoDB. CI/CD pipelines and Dockerized environments.
+
+- **Software Engineer (01/2022 – 04/2023)**  
+  School management web app with event dashboards and admin/student roles. Built using PHP (Laravel), PostgreSQL, and MongoDB.
+
+---
+
+### 🔍 Personal Projects
+
+- **My Family Bank**
+  Family expense tracker with user roles, CRUD operations, and statistical graphs. Stack: Python, Flask, Bootstrap, SQL.
+- **Profiler AI**
+    Profiler Identikit generator with the help of AI tools
+
+
+---
+
+### 📖 Continuous Learning
+
+I’m constantly deepening my knowledge in Java and microservices architecture, while exploring new backend development trends and DevOps practices. I value code quality and continuous improvement.
+
+---
+
+### 🌍 Open to New Opportunities
+
+I'm open to professional roles that allow me to grow as a backend developer and contribute to innovative software projects.
+
+---
 
 ### 📫 Contact
 
-Are you interested in collaborating or think I might be the ideal candidate for your company? Contact me!
-
-- **Email:** [leonardo.capannelli.2003@gmail.com](mailto:leonardo.capannelli.2003@gmail.com)
+- **Email:** [leonardo.capannelli.2003@gmail.com](mailto:leonardo.capannelli.2003@gmail.com)  
 - **LinkedIn:** [Leonardo Capannelli](https://www.linkedin.com/in/leonardo-capannelli-5408102b6)
-
-### 💼 Work Experience
-Work in progress
-<!--
-Qui puoi inserire le tue esperienze lavorative, stage, o progetti significativi a cui hai lavorato.
--->
-### 🔍 Here Are Some of My Projects
-Work in progress
-<!--
-- **Progetto 1:** [Nome Progetto](link-al-progetto) - Una breve descrizione.
-- **Progetto 2:** [Nome Progetto](link-al-progetto) - Una breve descrizione.
-- **Progetto 3:** [Nome Progetto](link-al-progetto) - Una breve descrizione.
--->
-I invite you to explore my portfolio for a complete view of my work and skills.
-
-
